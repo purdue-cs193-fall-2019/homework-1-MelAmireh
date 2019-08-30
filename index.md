@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Malak Amireh's First CS193 Homework
  A few things I enjoy about CS193; 
- - How easygoing our TA's are
+ - How easy-going our TA's are
  - All the help provided to us, whether it's related to CS193 or it isn't!
  - New friends I had made during the classes
  
